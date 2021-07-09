@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajatguptakgp" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="rajatguptakgp" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rajat95gupta" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="rajatguptakgp" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rajatguptakgp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajatguptakgp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajatguptakgp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="rajatguptakgp" height="30" width="40" /></a>
 </p>
