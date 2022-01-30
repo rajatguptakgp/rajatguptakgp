@@ -7,7 +7,7 @@
 
 📫 Email-ID: **rajatgba2021@email.iimcal.ac.in**
 
-I document my learnings on <a href="https://www.notion.so/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="rajatguptakgp" height="30" width="40" /></a>. My Machine Learning Notes - [ML Notes](https://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49ba83c0675b0a360f6a?v=b9ba5ea7dbf64a2c84f4e8ebac4ba70b)
+I document my learnings in my **Machine Learning Notes** <a href="https://ml-notes-rajatgupta.notion.site/ml-notes-rajatgupta/47bf08f60cad49ba83c0675b0a360f6a?v=b9ba5ea7dbf64a2c84f4e8ebac4ba70b" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" alt="rajatguptakgp" height="30" width="40" /></a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
