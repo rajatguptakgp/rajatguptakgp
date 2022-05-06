@@ -15,6 +15,7 @@ I document my learnings in my **Machine Learning Notes** <a href="https://ml-not
 <a href="https://www.kaggle.com/rajat95gupta" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="rajatguptakgp" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rajatguptakgp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajatguptakgp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajatguptakgp" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="rajatguptakgp" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=6Lj2OfAAAAAJ&hl=en" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/384/000000/google-scholar.png" alt="rajatguptakgp" height="40" width="40" /></a>  
 </p>
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rajatguptakgp&count_private=true&show_icons=true&locale=en&hide=prs,contribs" alt="rajatguptakgp" /></p> -->
 <h3 align="left">Languages and Tools:</h3>
