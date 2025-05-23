@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Rajat
 
 - I am an AI/ML Enthusiast. Always learning.
-- Currently working in Object Detection and Tracking with the Computer Vision team at Walmart Labs. 
 - I look forward to collaborating with researchers and creators.
 - My current goals are to contribute more to open-source projects and participate in Kaggle competitions.
 
